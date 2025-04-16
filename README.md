@@ -25,5 +25,5 @@ The video showcases the model translating images to LaTeX in real time.
 
 For an in-depth look at our model architecture, training process, challenges, and evaluation:
 
- **[Read the full project report (PDF)](./docs/image2latex.pdf.pdf)**  
+ **[Read the full project report (PDF)](./docs/image2latex.pdf)**  
 It covers everything from data preprocessing to BLEU score interpretation, with examples and visualizations.
